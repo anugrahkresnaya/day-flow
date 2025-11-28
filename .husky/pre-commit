@@ -1,0 +1,4 @@
+echo "🔍 Running checks before commit... hang on! 🚀"
+npx lint-staged
+
+echo "✨ All good! You're clear to commit 😎"

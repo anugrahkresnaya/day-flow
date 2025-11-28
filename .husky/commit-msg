@@ -1,0 +1,4 @@
+echo "📝 Checking your commit message... 🤓"
+npx commitlint --edit "$1"
+
+echo "💚 Commit message looks awesome! Let's roll! 🚀"
